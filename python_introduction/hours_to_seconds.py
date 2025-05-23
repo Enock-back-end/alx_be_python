@@ -1,10 +1,10 @@
 #The number of hours
-Hours = 2
+hours=2
 
 #The numbers of seconds 
-seconds = Hours * 3600
+seconds=hours*3600
 
 #Results
-print(str(Hours) + " hour(s) is " + str(seconds) + " seconds")
+print(f"{hours} hour(s) is {seconds} seconds")
 
 
