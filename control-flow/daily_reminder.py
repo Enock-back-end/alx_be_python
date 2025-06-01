@@ -20,7 +20,7 @@ def main():
     else:
         message += ". Consider completing it when you have free time."
 
-    print("\nReminder:", message)
+    print(f"Reminder: {message}")
 
 if __name__ == "__main__":
     main()
