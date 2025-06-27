@@ -1,5 +1,8 @@
 {
-    "cSpell.words": [
-        "ORDERDETAILID"
-    ]
+    "[sql]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": null
+    },
+    "editor.formatOnSave": false,
+    "sql.format.enable": false
 }
