@@ -1,9 +1,11 @@
-INSERT INTO
-    CUSTOMERS (
-        CUSTOMER_ID,
-        CUSTOMER_NAME,
-        EMAIL,
-        ADDRESS
+USE alx_book_store;
+
+INSERT IGNORE INTO
+    customers (
+        customer_id,
+        customer_name,
+        email,
+        address
     )
 VALUES (
         2,
